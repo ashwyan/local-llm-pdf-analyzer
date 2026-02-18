@@ -26,4 +26,5 @@ To run this notebook, you need two external tools installed on your machine:
 
 ## Installation
 Clone the repository and install the Python dependencies:
-`pip install langchain-community langchain-ollama pypdf matplotlib`
+   ```bash
+   pip install langchain-community langchain-ollama pypdf matplotlib
