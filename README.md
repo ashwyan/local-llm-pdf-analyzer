@@ -20,3 +20,10 @@ To run this notebook, you need two external tools installed on your machine:
 1. **Ollama:** Download from [ollama.com](https://ollama.com/) and pull the Llama 3 model:
    ```bash
    ollama run llama3:8b
+2. FFmpeg: Required for saving the MP4 video.
+   `Mac: brew install ffmpeg`
+   `Windows: Download from ffmpeg.org and add to PATH.`
+
+## Installation
+Clone the repository and install the Python dependencies:
+`pip install langchain-community langchain-ollama pypdf matplotlib`
