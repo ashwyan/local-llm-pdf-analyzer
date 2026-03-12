@@ -109,6 +109,3 @@ config = PipelineConfig(
 - **PDF Parsing**: pypdf
 - **Visualization**: matplotlib + ffmpeg
 
-## License
-
-MIT
